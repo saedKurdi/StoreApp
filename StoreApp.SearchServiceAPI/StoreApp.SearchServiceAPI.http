@@ -1,0 +1,6 @@
+@StoreApp.SearchServiceAPI_HostAddress = http://localhost:5202
+
+GET {{StoreApp.SearchServiceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

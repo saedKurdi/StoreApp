@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IXJt6fNOpbeYHKd6uTPvjuhPzxrZwYkoNDnzFTrIPtQ=",
+  "Source": "StoreApp.ApiGateway",
+  "BasePath": "_content/StoreApp.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

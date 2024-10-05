@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7WWQ9LCNzQ1C0iNR55KkHBbs13KmCApSr3xLgLaRkj4=",
+  "Source": "StoreApp.ProductService",
+  "BasePath": "_content/StoreApp.ProductService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

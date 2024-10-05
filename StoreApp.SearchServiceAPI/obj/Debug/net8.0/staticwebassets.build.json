@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qy5C4ryHJlOJWtpTDRUt+BMR65Fq5bj8gZH5akJ29WY=",
+  "Source": "StoreApp.SearchServiceAPI",
+  "BasePath": "_content/StoreApp.SearchServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

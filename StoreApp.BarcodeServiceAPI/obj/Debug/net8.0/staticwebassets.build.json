@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3Q2+hY3zoXgmHJS8vE0g1Tpits9Z8t1mzlySsyoZhSg=",
+  "Source": "StoreApp.BarcodeServiceAPI",
+  "BasePath": "_content/StoreApp.BarcodeServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

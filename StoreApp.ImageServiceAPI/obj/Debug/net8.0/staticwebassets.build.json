@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gHguJNf/YZlOsVssnsvEoM0e523suDDS2AYdneB9pXk=",
+  "Source": "StoreApp.ImageServiceAPI",
+  "BasePath": "_content/StoreApp.ImageServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

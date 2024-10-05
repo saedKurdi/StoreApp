@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{5892BD4C-467E-4151-AC95-C0EDA3BCCDE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BarcodeService", "BarcodeService", "{9938FBDC-F8B5-4A7C-A773-39FEF8A026F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImageService", "ImageService", "{2158CF0F-5043-492A-B9C6-84D920DBC78D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductService", "ProductService", "{D4CB3682-AAE4-476F-B6D0-706DBFDF762E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchService", "SearchService", "{72719D9C-9F50-405F-B4D7-0F241710CCC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UIApp", "UIApp", "{E6F86E71-3927-498A-8913-A3654B2F20EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.WebUI", "StoreApp.WebUI\StoreApp.WebUI.csproj", "{F595F8BF-6844-4803-975E-6404F038FC22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.ProductService", "StoreApp.ProductService\StoreApp.ProductService.csproj", "{A576AFCF-6A5A-4A88-B37D-1DF0AFD131EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.ImageServiceAPI", "StoreApp.ImageServiceAPI\StoreApp.ImageServiceAPI.csproj", "{3DB78FCB-FD1E-4955-926F-DE300CB2047F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.ApiGateway", "StoreApp.ApiGateway\StoreApp.ApiGateway.csproj", "{13CE0695-CB44-4CAC-A654-D76458A263A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.BarcodeServiceAPI", "StoreApp.BarcodeServiceAPI\StoreApp.BarcodeServiceAPI.csproj", "{E578F22E-2DED-44C7-B54C-75F129BD30E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreApp.SearchServiceAPI", "StoreApp.SearchServiceAPI\StoreApp.SearchServiceAPI.csproj", "{45F1C050-71AA-412D-8B21-08A79AAD9CFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LogService", "LogService", "{FAF02EEC-2D08-4B6B-B0BF-7AFA5DA17FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp.LogService", "StoreApp.LogService\StoreApp.LogService.csproj", "{7B73B812-283B-4412-9A07-75A5C488FB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F595F8BF-6844-4803-975E-6404F038FC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F595F8BF-6844-4803-975E-6404F038FC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F595F8BF-6844-4803-975E-6404F038FC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F595F8BF-6844-4803-975E-6404F038FC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A576AFCF-6A5A-4A88-B37D-1DF0AFD131EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A576AFCF-6A5A-4A88-B37D-1DF0AFD131EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A576AFCF-6A5A-4A88-B37D-1DF0AFD131EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A576AFCF-6A5A-4A88-B37D-1DF0AFD131EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB78FCB-FD1E-4955-926F-DE300CB2047F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB78FCB-FD1E-4955-926F-DE300CB2047F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB78FCB-FD1E-4955-926F-DE300CB2047F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB78FCB-FD1E-4955-926F-DE300CB2047F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CE0695-CB44-4CAC-A654-D76458A263A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CE0695-CB44-4CAC-A654-D76458A263A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CE0695-CB44-4CAC-A654-D76458A263A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CE0695-CB44-4CAC-A654-D76458A263A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E578F22E-2DED-44C7-B54C-75F129BD30E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E578F22E-2DED-44C7-B54C-75F129BD30E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E578F22E-2DED-44C7-B54C-75F129BD30E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E578F22E-2DED-44C7-B54C-75F129BD30E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F1C050-71AA-412D-8B21-08A79AAD9CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F1C050-71AA-412D-8B21-08A79AAD9CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F1C050-71AA-412D-8B21-08A79AAD9CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F1C050-71AA-412D-8B21-08A79AAD9CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B73B812-283B-4412-9A07-75A5C488FB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B73B812-283B-4412-9A07-75A5C488FB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B73B812-283B-4412-9A07-75A5C488FB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B73B812-283B-4412-9A07-75A5C488FB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F595F8BF-6844-4803-975E-6404F038FC22} = {E6F86E71-3927-498A-8913-A3654B2F20EB}
+		{A576AFCF-6A5A-4A88-B37D-1DF0AFD131EA} = {D4CB3682-AAE4-476F-B6D0-706DBFDF762E}
+		{3DB78FCB-FD1E-4955-926F-DE300CB2047F} = {2158CF0F-5043-492A-B9C6-84D920DBC78D}
+		{13CE0695-CB44-4CAC-A654-D76458A263A0} = {5892BD4C-467E-4151-AC95-C0EDA3BCCDE4}
+		{E578F22E-2DED-44C7-B54C-75F129BD30E8} = {9938FBDC-F8B5-4A7C-A773-39FEF8A026F8}
+		{45F1C050-71AA-412D-8B21-08A79AAD9CFB} = {72719D9C-9F50-405F-B4D7-0F241710CCC3}
+		{7B73B812-283B-4412-9A07-75A5C488FB0D} = {FAF02EEC-2D08-4B6B-B0BF-7AFA5DA17FC2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D98C4F7B-1A77-4E05-B473-C5FA659A68A7}
+	EndGlobalSection
+EndGlobal

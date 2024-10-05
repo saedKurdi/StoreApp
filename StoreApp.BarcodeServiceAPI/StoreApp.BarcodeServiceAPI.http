@@ -1,0 +1,6 @@
+@StoreApp.BarcodeServiceAPI_HostAddress = http://localhost:5177
+
+GET {{StoreApp.BarcodeServiceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
